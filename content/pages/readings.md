@@ -157,13 +157,13 @@ Donnelly, Jack. *International Human Rights.* 2nd ed. Boulder, CO: Westview Pres
 
 Power, Samantha. "Dying in Darfur." *The New Yorker Magazine*, 30 August 2004, 56-74.
 
-Barker, Greg. "{{% resource_link "3cc4e846-5888-4ea6-8878-d0d57bf376f0" "Ghosts of Rwanda" %}}." *PBS Frontline,* 2004.
+Barker, Greg. "[Ghosts of Rwanda](http://www.pbs.org/wgbh/pages/frontline/shows/ghosts/)." *PBS Frontline,* 2004.
 
 Cobban, Helena. "The Legacies of Collective Violence." *Boston Review*, April/May 2002, 4-15.
 
 "Rwanda, Remembered." *The Economist* 30, no. 11 (March 27, 2004.)
 
-Helena, Cobban. "{{% resource_link "22946c0c-3329-490d-b904-90feb91797f6" "Rwanda Today: The International Criminal Tribunal and the Prospects for Peace and Reconciliation" %}}." *Frontline.* (Ghosts of Rwanda Web page.)
+Helena, Cobban. "[Rwanda Today: The International Criminal Tribunal and the Prospects for Peace and Reconciliation](http://www.pbs.org/wgbh/pages/frontline/shows/ghosts/today/)." *Frontline.* (Ghosts of Rwanda Web page.)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24

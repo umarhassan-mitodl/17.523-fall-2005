@@ -43,7 +43,7 @@
     "website": "17-523-ethnicity-and-race-in-world-politics-fall-2005"
   },
   "course_title": "Ethnicity and Race in World Politics",
-  "hide_download": false,
+  "hide_download": true,
   "mit_learn_topics": [
     [
       "Social Sciences",
@@ -64,6 +64,7 @@
     "content": "f361996e-c575-6095-1993-1e85bd928dcc",
     "website": "17-523-ethnicity-and-race-in-world-politics-fall-2005"
   },
+  "hide_download_original": false,
   "learning_resource_types": [
     "Lecture Notes",
     "Written Assignments with Examples"
