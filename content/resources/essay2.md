@@ -4,8 +4,6 @@ description: This resource is an essay by a student on the topic of American pov
 file: /courses/17-523-ethnicity-and-race-in-world-politics-fall-2005/f6356c556dac7d11c0e1082281de94a4_essay2.pdf
 file_size: 108862
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
